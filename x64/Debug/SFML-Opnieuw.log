@@ -1,0 +1,273 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML-Opnieuw.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SFML-Opnieuw.cpp
+C:\Users\simeo\source\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'SFML-Opnieuw.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Users\simeo\source\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,160): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(87,132): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(110,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(111,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(120,34): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(120,34): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(120,34): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(120,34): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(120,34): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(121,35): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(121,35): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(121,35): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(121,35): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Dynamics.h(121,35): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(16,30): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(17,33): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(18,32): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(19,32): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(20,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(21,33): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(22,32): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(23,40): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(24,44): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(25,45): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(28,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(29,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(32,26): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(43,41): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(43,41): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(43,41): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(43,41): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(43,41): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(44,42): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(44,42): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(44,42): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(44,42): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(44,42): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(46,48): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(46,48): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(46,48): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(46,48): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(46,48): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(47,49): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(47,49): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(47,49): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(47,49): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(47,49): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(49,40): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(49,40): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(49,40): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(49,40): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(49,40): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(50,41): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(50,41): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(50,41): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(50,41): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(50,41): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(52,50): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(52,50): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(52,50): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(52,50): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(52,50): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(53,51): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(53,51): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(53,51): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(53,51): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(53,51): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(55,48): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(55,48): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(55,48): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(55,48): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(55,48): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(56,49): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(56,49): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(56,49): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(56,49): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Visuals\Sight.h(56,49): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(64,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(66,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(70,16): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(70,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(70,83): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Throwables.h(72,16): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Playing\Regulator.h(335,25): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(21,21): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(21,21): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(21,21): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(21,21): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(21,21): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(22,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(22,22): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(22,22): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(22,22): warning C4244:             T=unsigned int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(22,22): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(34,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(34,73): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(34,135): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(35,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(36,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(39,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(39,75): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(39,138): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(40,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(41,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(45,26): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,147): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(92,119): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,151): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         with
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:             T=int
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         ]
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         and
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         [
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:             T=float
+C:\Users\simeo\source\repos\SFML-Opnieuw\SFML-Opnieuw\Headers\Main_Menu\Main_Menu.h(95,123): warning C4244:         ]
+  (compiling source file 'SFML-Opnieuw.cpp')
+  
+  SFML-Opnieuw.vcxproj -> C:\Users\simeo\source\repos\SFML-Opnieuw\x64\Debug\Slice game.exe
